@@ -1,7 +1,7 @@
 """
 This example is meant to be paired with LabJack's other examples:
 https://labjack.com/support/software/examples/ljm/python
-This example Demonstrates reading a single analog input (AIN0) 
+This example demonstrates reading a single analog input (AIN0) 
 from a LabJack 10 times (at 10Hz or with a 100ms delay between
 samples) and logging that data to a .csv file.
 """
